@@ -1,7 +1,5 @@
 ## "Online Grocery Store" - MERN Stack E-commerce Web Application
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://onlinegroceryapp.herokuapp.com/) [![GitHub issues](https://img.shields.io/github/issues/Prince-Shivaram/online-grocerystore.svg)](https://github.com/Prince-Shivaram/online-grocerystore/issues)
-
 Online Grocery Store E-commerce Web Application built using MERN Stack. It has all the general features like product search, product rating & review system, cart checkout, payment gateway integration & pagination. Also admin can manage users, products & orders.
 
 - If you've less time to check demo, instead of creating account, use my credentials to login: <br>
